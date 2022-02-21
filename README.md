@@ -11,4 +11,6 @@ Dataset: 30,000 rows with 25 columns
 
 for example: If gender category is there and in the data it is present and 1's and 2's, this should again be converted into names first that is 'Male' and 'Female' and then into dummy codes. Otherwise the model will associate a beta coefficient with it which would convey a wrong information. 
 
+End
+
 
